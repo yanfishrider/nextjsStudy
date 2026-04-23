@@ -8,3 +8,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 # nextjsStudy
 个人学习next.js，跟随官方文档
 >>>>>>> 2c699924173fccdbe2c93ba73d71438fe0525329
+2026.4.23
+lint未实现,登录认证已完成
